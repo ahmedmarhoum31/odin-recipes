@@ -42,7 +42,7 @@ img
     margin-top: 50px;
 }
 
-h2, ul, ol,p
+h2, ul, ol,p,h3
 {
     width: 70%;
     margin: auto;
@@ -62,3 +62,17 @@ p, ul, li
     font-weight: 400;
 }
 
+h4
+{
+    text-align: center;
+    padding-block: 25px;
+    background-color: black;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+h4 a
+{
+    color:yellow;
+}
