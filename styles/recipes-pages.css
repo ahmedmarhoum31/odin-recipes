@@ -51,6 +51,11 @@ h2, ul, ol,p,h3
     margin-bottom: 20px;
 }
 
+h2
+{
+    margin-top: 30px;
+}
+
 p,ul
 {
     margin-bottom: 70px;
