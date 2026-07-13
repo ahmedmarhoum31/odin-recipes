@@ -1,0 +1,40 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+.title
+{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    margin-block: 50px;
+}
+
+.recipes-list
+{
+    list-style: none;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.recipes-list li
+{
+    display: inline;
+    margin-inline: 50px;
+
+}
+
+.recipes-list li a
+{
+    font-size: 16px;
+    font-weight: 400px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 15px 25px;
+    border-radius: 15px;
+}
